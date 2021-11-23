@@ -1,3 +1,9 @@
+# Diary - Frontend
+
+a diary built on react, node.js, mongodb, and a love for writing in journals.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
